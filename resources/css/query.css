@@ -1,0 +1,215 @@
+
+
+
+
+@media only screen and (max-width: 1200px) {
+    .hero-text {
+        width: 100%;
+        margin-left: 2%;
+    }
+    
+    .row {
+        margin: 0 2%;
+    }
+    .last-para {
+        margin-left: 100px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 1146px) {
+    html,body {
+        margin:0;
+        padding:0;
+        overflow-x: hidden;}
+
+    .hero-text {
+        margin-left: 2%;
+    }
+    .main-nav {
+        margin-left: 50%;
+    }
+    .buttons, .firstbuttons {font-size: 70%;}
+}
+
+
+
+
+
+@media only screen and (max-width: 1023px) {
+    html,body {
+        margin:0;
+        padding:0;
+        overflow-x: hidden;}
+    .hero-text {
+        margin-left: 2%;
+        font-size: 90%;
+    }
+    
+    
+    body {
+        font-size: 90%;
+    }
+    .main-nav {
+        margin-left: 40%;
+        
+    }
+    
+    .box img {
+        height: 180px;
+    }
+    
+    .box img:hover {
+        height: 185px;
+    }
+    
+    .right-side li {
+        margin: 0 10px;
+    }
+    .last-para {
+        margin-left: 150px;
+    }
+    
+ 	.buttons,.firstbuttons {
+    	margin-left: 90%;
+        width: 100%;
+        text-align: center;
+        font-size: 70%;
+        
+    }
+    .buttons:hover,.firstbuttons:hover {
+    	margin-left: 90%;
+        width: 100%;
+        text-align: center;
+        font-size: 70%;
+        
+    }
+    .right-side li {
+    	margin-left: 0px;
+    	width: 25px;
+    }
+    .phonescreen {
+    width: 40%;
+    height: auto;
+    margin-left: 50%;
+    }
+    .steps {
+        font-size: 21px;
+        margin-bottom: 5px;
+    }
+    .steptext {
+    margin-top: 1%;
+    margin-bottom: 8%;    
+    }    
+    
+    .box img {
+        width: 100%;
+    }
+    .box img:hover {
+    width: 100%;
+    transform: scale(1.05);
+    transition: 0.3s
+    }
+    .lasticons {
+        margin-left: 50px;
+        margin-top: 0;
+    }
+    .lefttext {margin-top: 200px;}
+
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 791px) {
+    html,body {
+        margin:0;
+        padding:0;
+    overflow-x: hidden;}
+    body {
+        font-size: 65%;
+    }
+    .phonescreen {
+    width: 30%;
+    height: auto;
+    margin-left: 50%;
+    }
+    .steptext { 
+        margin-bottom: 40px;}
+    
+    .steptext:last-of-type {
+    margin-top: -0.05%
+    }
+    
+    .logo {
+        height: 60px;
+    }
+    
+    .btn {
+        font-size: 130%;
+    }
+    .main-nav {
+        margin-left: 40%;
+        font-size: 100%;
+    }
+    .col {
+        width: 100%;
+    }
+    .long-text {
+        width: 100%;
+    }
+    
+    .box{
+        margin-top: 3%;
+    }
+    .box img {
+        height: auto;
+        width: 95%;
+    }
+    .box img:hover {
+        display: hidden;
+        height: auto;
+        width: 95%;
+    }
+    .buttons, .firstbuttons  {
+        margin-left: 20%;
+        width: 50%;
+    }
+    .buttons:hover, .firstbuttons:hover  {
+        margin-left: 20%;
+        width: 50%;
+    }
+    ion-icon {
+        margin-bottom: -5px;
+        margin-top: 5px;
+    }
+    .plan-box { font-size: 120%;}
+    }
+    blockquote {
+        margin-top: 50px;
+        margin-bottom: -20px;
+    }
+    label {margin-left: 5px;}
+    .lasticons { margin-left: -400%;}
+    .left-side {margin-left: 10%;}
+    .last-para {margin-left: -12%;}
+    
+}
+
+@media only screen and (max-width: 608px) {
+    
+    .main-nav {
+        margin-left: -35px;
+        font-size: 10px;
+    }
+
+}
+
+
+
+
